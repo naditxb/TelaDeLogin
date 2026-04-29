@@ -1,8 +1,8 @@
-# 📚 Biblioteca — Tela de Login
+Biblioteca — Tela de Login
 
 Tela de login simples feita com HTML e CSS puro.
 
-## Como usar
+Como usar
 
 1. Clone o repositório:
    ```bash
@@ -11,7 +11,7 @@ Tela de login simples feita com HTML e CSS puro.
 
 2. Abra o arquivo `index.html` no navegador.
 
-## Arquivos
+Arquivos:
 
 ```
 biblioteca-login/
@@ -20,7 +20,7 @@ biblioteca-login/
 └── README.md    → este arquivo
 ```
 
-## Tecnologias
+Tecnologias:
 
 - HTML5
 - CSS3
